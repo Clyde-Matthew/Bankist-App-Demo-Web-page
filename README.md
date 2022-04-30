@@ -1,5 +1,5 @@
 # Bankist-App-Demo-Web-page
-Front Web Page for the Bankist App
+Web Page for the Bankist App
 
 A Simple front end design to the bankist app. Taught Jonas Schmedtmann
 
